@@ -25,6 +25,7 @@ typedef enum{
 	IBOutlet SlotMachineHopperViewController *viewController;
 	Byte coinCount;
 	CALayer *backgroundLayer, *coinsLayer, *pileLayer, *frontLayer;
+	int coinAmount;
 }
 
 - (void)beginCoinDrop:(winSize)size;

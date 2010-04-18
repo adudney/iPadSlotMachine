@@ -22,6 +22,8 @@
 		4922B67E117AB59000C77AA4 /* ChestBottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 4922B67B117AB59000C77AA4 /* ChestBottom.png */; };
 		4922B67F117AB59000C77AA4 /* ChestTopBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 4922B67C117AB59000C77AA4 /* ChestTopBackground.png */; };
 		4922B680117AB59000C77AA4 /* CoinGlow.png in Resources */ = {isa = PBXBuildFile; fileRef = 4922B67D117AB59000C77AA4 /* CoinGlow.png */; };
+		4978FAF1117B75000067B8B6 /* Jackpot.png in Resources */ = {isa = PBXBuildFile; fileRef = 4978FAEF117B75000067B8B6 /* Jackpot.png */; };
+		4978FAF2117B75000067B8B6 /* YouWin.png in Resources */ = {isa = PBXBuildFile; fileRef = 4978FAF0117B75000067B8B6 /* YouWin.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +48,8 @@
 		4922B67B117AB59000C77AA4 /* ChestBottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChestBottom.png; sourceTree = "<group>"; };
 		4922B67C117AB59000C77AA4 /* ChestTopBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChestTopBackground.png; sourceTree = "<group>"; };
 		4922B67D117AB59000C77AA4 /* CoinGlow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CoinGlow.png; sourceTree = "<group>"; };
+		4978FAEF117B75000067B8B6 /* Jackpot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jackpot.png; sourceTree = "<group>"; };
+		4978FAF0117B75000067B8B6 /* YouWin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = YouWin.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* SlotMachineHopper-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SlotMachineHopper-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -173,6 +177,8 @@
 		4922B26F117A4F2000C77AA4 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				4978FAEF117B75000067B8B6 /* Jackpot.png */,
+				4978FAF0117B75000067B8B6 /* YouWin.png */,
 				4922B67B117AB59000C77AA4 /* ChestBottom.png */,
 				4922B67C117AB59000C77AA4 /* ChestTopBackground.png */,
 				4922B67D117AB59000C77AA4 /* CoinGlow.png */,
@@ -229,6 +235,8 @@
 				4922B67E117AB59000C77AA4 /* ChestBottom.png in Resources */,
 				4922B67F117AB59000C77AA4 /* ChestTopBackground.png in Resources */,
 				4922B680117AB59000C77AA4 /* CoinGlow.png in Resources */,
+				4978FAF1117B75000067B8B6 /* Jackpot.png in Resources */,
+				4978FAF2117B75000067B8B6 /* YouWin.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
