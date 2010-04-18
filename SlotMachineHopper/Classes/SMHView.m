@@ -101,7 +101,7 @@
 			textLayer.string = @"YOU LOSE.";
 			break;*/
 		case win:
-			coinCount = 10;
+			coinCount = 50;
 			//textLayer.string = @"You Win";
 			textLayer.contents = (id)[[UIImage imageNamed:@"YouWin.png"]CGImage];
 			break;
@@ -110,7 +110,7 @@
 			textLayer.string = @"Big Win!";
 			break;*/
 		case jackpot:
-			coinCount = 100;
+			coinCount = 200;
 			//textLayer.string = @"JACKPOT!!";
 			textLayer.contents = (id)[[UIImage imageNamed:@"Jackpot.png"]CGImage];
 			break;
@@ -148,9 +148,13 @@
 	textLayer.actions = [NSDictionary dictionaryWithObject:animation forKey:@"transform"];
 	textLayer.transform = scale6;
 	
+	coinAmount = 0;
 	for(CALayer *coinLayer in coins) {
 		if(coinCount != 0){
-			NSTimer *time = [NSTimer scheduledTimerWithTimeInterval:((float)(rand()%20)/10.0) target:self selector:@selector(moveLayer:) userInfo:[NSDictionary dictionaryWithObject:coinLayer forKey:@"layer"] repeats:YES];
+			if(coinAmount < (coinCount)){
+				coinAmount++;
+				NSTimer *time = [NSTimer scheduledTimerWithTimeInterval:((float)(rand()%20)/10.0) target:self selector:@selector(moveLayer:) userInfo:[NSDictionary dictionaryWithObject:coinLayer forKey:@"layer"] repeats:YES];
+			}
 		}
 	}
 }
@@ -162,8 +166,10 @@
 	srand(rand());
 	coinLayer.position = CGPointMake((rand()%824)+100.0, -50.0);
 	[CATransaction commit];
-	pileLayer.position = CGPointMake(pileLayer.position.x, pileLayer.position.y-0.5);
-	if(coinAmount > coinCount*1000 + 100){
+	if (pileLayer.position.y > 180.0) {
+		pileLayer.position = CGPointMake(pileLayer.position.x, pileLayer.position.y-0.5);
+	}
+	if(coinAmount > (coinCount * 100.0) + 99){
 		coinAmount = 0;
 	}
 }
@@ -172,9 +178,9 @@
 	CALayer *layer = [[time userInfo] objectForKey:@"layer"];
 	layer.position = CGPointMake(layer.position.x, 768.0);
 	coinAmount++;
-	if(coinAmount > coinCount*1000){
+	if(coinAmount > (coinCount * 100.0)){
 		[time invalidate];
-		coinAmount = coinCount*1000;
+		//coinAmount = coinCount*1000;
 	}
 }
 
