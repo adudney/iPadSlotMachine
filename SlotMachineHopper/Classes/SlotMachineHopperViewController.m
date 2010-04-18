@@ -10,6 +10,9 @@
 
 @implementation SlotMachineHopperViewController
 
+- (void)dropCoins:(SlotMachineHopperWinSize)prize{
+	[self.view beginCoinDrop:prize];
+}
 
 /*
 // The designated initializer. Override to perform setup that is required before the view is loaded.

@@ -91,17 +91,17 @@
 }
 
 - (IBAction)action{
-	[self beginCoinDrop:jackpot];
+	[self beginCoinDrop:SlotMachineHopperWinSizeJackpot];
 }
 
-- (void)beginCoinDrop:(winSize)size{
+- (void)beginCoinDrop:(SlotMachineHopperWinSize)size{
 	switch (size) {
 		/*case lose:
 			coinCount = 0;
 			textLayer.string = @"YOU LOSE.";
 			break;*/
-		case win:
-			coinCount = 50;
+		case SlotMachineHopperWinSizeWin:
+			coinCount = 500;
 			//textLayer.string = @"You Win";
 			textLayer.contents = (id)[[UIImage imageNamed:@"YouWin.png"]CGImage];
 			break;
@@ -109,8 +109,8 @@
 			coinCount = 30;
 			textLayer.string = @"Big Win!";
 			break;*/
-		case jackpot:
-			coinCount = 200;
+		case SlotMachineHopperWinSizeJackpot:
+			coinCount = 2000;
 			//textLayer.string = @"JACKPOT!!";
 			textLayer.contents = (id)[[UIImage imageNamed:@"Jackpot.png"]CGImage];
 			break;
@@ -119,7 +119,7 @@
 			textLayer.contents = nil;
 			break;
 	}
-		
+	
 	CATransform3D scale0 = CATransform3DMakeScale(0.1, 0.1, 1.0);
 	textLayer.transform = scale0;
 	CATransform3D scale1 = CATransform3DMakeScale(1.5, 1.5, 1.0);
@@ -153,10 +153,12 @@
 		if(coinCount != 0){
 			if(coinAmount < (coinCount)){
 				coinAmount++;
-				NSTimer *time = [NSTimer scheduledTimerWithTimeInterval:((float)(rand()%20)/10.0) target:self selector:@selector(moveLayer:) userInfo:[NSDictionary dictionaryWithObject:coinLayer forKey:@"layer"] repeats:YES];
+				NSTimer *time = [NSTimer scheduledTimerWithTimeInterval:((float)(rand()%20)/10.0) target:self selector:@selector(moveLayer:) userInfo:[NSDictionary dictionaryWithObject:coinLayer forKey:@"layer"] repeats:NO];
+				time = time;
 			}
 		}
 	}
+	coinAmount = 0;
 }
 
 - (void)animationDidStop:(CAAnimation *)anim finished:(BOOL)flag{
@@ -166,10 +168,10 @@
 	srand(rand());
 	coinLayer.position = CGPointMake((rand()%824)+100.0, -50.0);
 	[CATransaction commit];
-	if (pileLayer.position.y > 180.0) {
+	if (pileLayer.position.y > 380.0) {
 		pileLayer.position = CGPointMake(pileLayer.position.x, pileLayer.position.y-0.5);
 	}
-	if(coinAmount > (coinCount * 100.0) + 99){
+	if(coinAmount > (coinCount) + 99){
 		coinAmount = 0;
 	}
 }
@@ -178,9 +180,13 @@
 	CALayer *layer = [[time userInfo] objectForKey:@"layer"];
 	layer.position = CGPointMake(layer.position.x, 768.0);
 	coinAmount++;
-	if(coinAmount > (coinCount * 100.0)){
+	if(coinAmount > (coinCount)){
 		[time invalidate];
-		//coinAmount = coinCount*1000;
+	}else{
+		if(coinCount != 0 && coinAmount != 0){
+			NSTimer *time = [NSTimer scheduledTimerWithTimeInterval:((float)(rand()%20)/10.0) target:self selector:@selector(moveLayer:) userInfo:[NSDictionary dictionaryWithObject:layer forKey:@"layer"] repeats:NO];
+			time = time;
+		}		
 	}
 }
 

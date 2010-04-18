@@ -8,9 +8,17 @@
 
 #import <UIKit/UIKit.h>
 
+typedef enum{
+	SlotMachineHopperWinSizeWin = 0,
+	SlotMachineHopperWinSizeJackpot
+}SlotMachineHopperWinSize;
+
+
 @interface SlotMachineHopperViewController : UIViewController {
 
 }
+
+- (void)dropCoins:(SlotMachineHopperWinSize)prize;
 
 @end
 

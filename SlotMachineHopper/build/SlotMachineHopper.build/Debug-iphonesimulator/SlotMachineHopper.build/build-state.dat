@@ -1,26 +1,26 @@
 TSlotMachineHopper
 v7
 r0
-t293305564.139444
+t293308852.175573
 cCheck dependencies
-cProcessInfoPlistFile /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Info.plist SlotMachineHopper-Info.plist
-cCompileXIB /Users/andrew/iPadSlotMachine/SlotMachineHopper/MainWindow.xib
-cCompileXIB /Users/andrew/iPadSlotMachine/SlotMachineHopper/SlotMachineHopperViewController.xib
+cProcessInfoPlistFile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Info.plist SlotMachineHopper-Info.plist
+cCompileXIB /Users/andrew/iPadSlotMachine2/SlotMachineHopper/MainWindow.xib
+cCompileXIB /Users/andrew/iPadSlotMachine2/SlotMachineHopper/SlotMachineHopperViewController.xib
 cCpResource build/Debug-iphonesimulator/SlotMachineHopper.app/coin.png coin.png
 cCpResource build/Debug-iphonesimulator/SlotMachineHopper.app/ChestBottom.png ChestBottom.png
 cCpResource build/Debug-iphonesimulator/SlotMachineHopper.app/ChestTopBackground.png ChestTopBackground.png
 cCpResource build/Debug-iphonesimulator/SlotMachineHopper.app/CoinGlow.png CoinGlow.png
 cCpResource build/Debug-iphonesimulator/SlotMachineHopper.app/Jackpot.png Jackpot.png
 cCpResource build/Debug-iphonesimulator/SlotMachineHopper.app/YouWin.png YouWin.png
-cProcessPCH /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch.gch SlotMachineHopper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o /Users/andrew/iPadSlotMachine/SlotMachineHopper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper normal i386
-cGenerateDSYMFile /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper
-cTouch /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app
+cProcessPCH /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch.gch SlotMachineHopper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper normal i386
+cGenerateDSYMFile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper
+cTouch /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
 c000000004BB0E9C90000000000000110
@@ -408,12 +408,199 @@ t1271529195
 s372
 i<UIKit/UIKit.h>
 
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/ChestBottom.png
+c000000004BCA7C190000000000073C02
+t1271561241
+s474114
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/ChestTopBackground.png
+c000000004BCA7C180000000000032EAC
+t1271561240
+s208556
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.h
+c000000004BCA22D30000000000000165
+t1271538387
+s357
+i<Foundation/Foundation.h>
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.m
+c000000004BCA22AA00000000000002C3
+t1271538346
+s707
+i"SMHModel.h"
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.h
+c000000004BCB4C83000000000000024E
+t1271614595
+s590
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"SlotMachineHopperViewController.h"
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.m
+c000000004BCB50C50000000000001C76
+t1271615685
+s7286
+i"SMHView.h"
+i"SMHModel.h"
+i"SlotMachineHopperViewController.h"
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.h
+c000000004BC9FEEB000000000000021C
+t1271529195
+s540
+i<UIKit/UIKit.h>
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m
+c000000004BC9FEEB00000000000002D5
+t1271529195
+s725
+i"SlotMachineHopperAppDelegate.h"
+i"SlotMachineHopperViewController.h"
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.h
+c000000004BCB4B4900000000000001AF
+t1271614281
+s431
+i<UIKit/UIKit.h>
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m
+c000000004BCB4B7400000000000005D0
+t1271614324
+s1488
+i"SlotMachineHopperViewController.h"
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/CoinGlow.png
+c000000004BCA7C1900000000000534CC
+t1271561241
+s341196
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Jackpot.png
+c000000004BCA8A5E0000000000014EB8
+t1271564894
+s85688
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/MainWindow.xib
+c000000004BC9FEEB0000000000004D6D
+t1271529195
+s19821
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/SlotMachineHopperViewController.xib
+c000000004BCA329400000000000053E5
+t1271542420
+s21477
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/SlotMachineHopper_Prefix.pch
+c000000004BC9FEEB00000000000000CB
+t1271529195
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/YouWin.png
+c000000004BCA8A5E0000000000011FC1
+t1271564894
+s73665
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app
+t1271615885
+s442
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM
+t1271615885
+s102
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/ChestBottom.png
+t1271561848
+s474114
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/ChestTopBackground.png
+t1271561848
+s208556
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/CoinGlow.png
+t1271561848
+s341196
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Info.plist
+t1271552510
+s762
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Jackpot.png
+t1271610794
+s85688
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/MainWindow.nib
+t1271529349
+s1143
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/PkgInfo
+t1271552510
+s8
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper
+t1271615884
+s30844
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopperViewController.nib
+t1271542424
+s1516
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/YouWin.png
+t1271610794
+s73665
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/coin.png
+t1271561288
+s12551
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o
+t1271614327
+s4996
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o
+t1271615884
+s54096
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopper.LinkFileList
+c000000004BCB4B760000000000000332
+t1271614326
+s818
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o
+t1271614327
+s42688
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o
+t1271614327
+s35312
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o
+t1271614327
+s5964
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/coin.png
+c000000004BCA7C190000000000003107
+t1271561241
+s12551
+
+N/Users/andrew/iPadSlotMachine2/SlotMachineHopper/main.m
+c000000004BC9FEEB0000000000000174
+t1271529195
+s372
+i<UIKit/UIKit.h>
+
 N/var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch.gch
 t1271610369
 s13805456
 
 N/var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djrewwpinkwbqfgepcqlxxjqkvjr/SlotMachineHopper_Prefix.pch.gch
 t1271529350
+s13805456
+
+N/var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch.gch
+t1271614327
 s13805456
 
 NSlotMachineHopper-Info.plist
@@ -423,7 +610,7 @@ s1084
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies293305563#293305563#0(0"0(0#1#0"4300739032#0"0#
+lSLF07#2@18"Check dependencies293308852#293308852#0(0"0(0#1#0"4300739032#0"0#
 
 CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o /Users/andrew/Development/iPad/SlotMachineHopper/Classes/SMHModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s293231187.700447
@@ -450,6 +637,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@74"Compile /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHModel.m293303169#293303169#0(0"0(0#0#66"/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHModel.m4300739032#2172"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHModel.m -o /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o0#
+
+CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293307127.859061
+e293307127.917174
+r1
+xCompileC
+xbuild/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.m293307127#293307127#0(0"0(0#0#67"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.m4300739032#2183"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHModel.m -o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHModel.o0#
 
 CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o /Users/andrew/Development/iPad/SlotMachineHopper/Classes/SMHView.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s293255265.996958
@@ -481,6 +681,19 @@ o/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m: In function 
 o/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m:156: warning: unused variable 'time'
 lSLF07#2@73"Compile /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m293305563#293305564#0(211"/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m: In function '-[SMHView beginCoinDrop:]':/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m:156: warning: unused variable 'time'1(22@22"Unused variable 'time'293305564#108#103#0(6@65"/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m293305563#156#0#156#0#19"unused variable '*'0(0#0#65"/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m4300739032#2170"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SMHView.m -o /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o0#
 
+CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293308684.652130
+e293308684.855634
+r1
+xCompileC
+xbuild/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.m293308684#293308684#0(0"0(0#0#66"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.m4300739032#2181"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SMHView.m -o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SMHView.o0#
+
 CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o /Users/andrew/Development/iPad/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s293222150.307141
 e293222150.426664
@@ -506,6 +719,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@94"Compile /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m293303169#293303169#0(0"0(0#0#86"/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m4300739032#2212"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m -o /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o0#
+
+CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293307127.651158
+e293307127.857586
+r1
+xCompileC
+xbuild/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m293307127#293307127#0(0"0(0#0#87"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m4300739032#2223"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperAppDelegate.m -o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperAppDelegate.o0#
 
 CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o /Users/andrew/Development/iPad/SlotMachineHopper/Classes/SlotMachineHopperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s293222150.424800
@@ -533,6 +759,24 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@97"Compile /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperViewController.m293303169#293303169#0(0"0(0#0#89"/Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperViewController.m4300739032#2218"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine/SlotMachineHopper/Classes/SlotMachineHopperViewController.m -o /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o0#
 
+CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293307127.857767
+e293307127.941307
+r1
+xCompileC
+xbuild/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m: In function '-[SlotMachineHopperViewController dropCoins:]':
+o/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: 'UIView' may not respond to '-beginCoinDrop:'
+o/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: (Messages without a matching method signature
+o/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: will be assumed to return 'id' and accept
+o/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: '...' as arguments.)
+lSLF07#2@98"Compile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m293307127#293307127#0(724"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m: In function '-[SlotMachineHopperViewController dropCoins:]':/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: 'UIView' may not respond to '-beginCoinDrop:'/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: (Messages without a matching method signature/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: will be assumed to return 'id' and accept/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m:14: warning: '...' as arguments.)2(22@45"'UIView' may not respond to '-beginCoinDrop:'293307127#153#150#0(6@90"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m293307124#14#0#14#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)293307127#303#150#0(6@90"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m293307124#14#0#14#0#0"0(0#0#90"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m4300739032#2229"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine2/SlotMachineHopper/Classes/SlotMachineHopperViewController.m -o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopperViewController.o0#
+
 CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o /Users/andrew/Development/iPad/SlotMachineHopper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s293222150.305944
 e293222150.424612
@@ -559,6 +803,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/andrew/iPadSlotMachine/SlotMachineHopper/main.m293303169#293303169#0(0"0(0#0#54"/Users/andrew/iPadSlotMachine/SlotMachineHopper/main.m4300739032#2156"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine/SlotMachineHopper/main.m -o /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o0#
 
+CCompileC build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s293307127.576190
+e293307127.858979
+r1
+xCompileC
+xbuild/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/main.m293307127#293307127#0(0"0(0#0#55"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/main.m4300739032#2167"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -include /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch -c /Users/andrew/iPadSlotMachine2/SlotMachineHopper/main.m -o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/main.o0#
+
 CCompileXIB /Users/andrew/Development/iPad/SlotMachineHopper/MainWindow.xib
 s293222148.880229
 e293222149.432138
@@ -579,6 +836,12 @@ CCompileXIB /Users/andrew/iPadSlotMachine/SlotMachineHopper/MainWindow.xib
 r0
 
 CCompileXIB /Users/andrew/iPadSlotMachine/SlotMachineHopper/SlotMachineHopperViewController.xib
+r0
+
+CCompileXIB /Users/andrew/iPadSlotMachine2/SlotMachineHopper/MainWindow.xib
+r0
+
+CCompileXIB /Users/andrew/iPadSlotMachine2/SlotMachineHopper/SlotMachineHopperViewController.xib
 r0
 
 CCpResource build/Debug-iphonesimulator/SlotMachineHopper.app/ChestBottom.png ChestBottom.png
@@ -653,6 +916,15 @@ x/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/Slo
 x/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper
 lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper293305564#293305564#0(0"0(0#0#115"/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper4300739032#440"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper -o /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM0#
 
+CGenerateDSYMFile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper
+s293308684.880581
+e293308685.221300
+r1
+xGenerateDSYMFile
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper293308684#293308685#0(0"0(0#0#116"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper4300739032#443"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper -o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app.dSYM0#
+
 CLd /Users/andrew/Development/iPad/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper normal i386
 s293255266.123000
 e293255266.150438
@@ -673,6 +945,16 @@ xnormal
 xi386
 lSLF07#2@120"Link /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper293305564#293305564#0(0"0(0#0#0"4300739032#979"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator -F/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator -filelist /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopper.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper0#
 
+CLd /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper normal i386
+s293308684.855731
+e293308684.880468
+r1
+xLd
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper
+xnormal
+xi386
+lSLF07#2@121"Link /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper293308684#293308684#0(0"0(0#0#0"4300739032#984"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -F/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -filelist /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/Objects-normal/i386/SlotMachineHopper.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/SlotMachineHopper0#
+
 CProcessInfoPlistFile /Users/andrew/Development/iPad/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Info.plist SlotMachineHopper-Info.plist
 s293245310.940376
 e293245310.974121
@@ -683,6 +965,9 @@ xSlotMachineHopper-Info.plist
 lSLF07#2@36"Process SlotMachineHopper-Info.plist293245310#293245311#0(0"0(0#0#77"/Users/andrew/Development/iPad/SlotMachineHopper/SlotMachineHopper-Info.plist4300739032#539"    cd /Users/andrew/Development/iPad/SlotMachineHopper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SlotMachineHopper-Info.plist -genpkginfo /Users/andrew/Development/iPad/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/andrew/Development/iPad/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Info.plist0#
 
 CProcessInfoPlistFile /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Info.plist SlotMachineHopper-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app/Info.plist SlotMachineHopper-Info.plist
 r0
 
 CProcessPCH /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djgzudafyxqfinbcbotdgwxasfcv/SlotMachineHopper_Prefix.pch.gch SlotMachineHopper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -711,6 +996,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@39"Precompile SlotMachineHopper_Prefix.pch293222149#293222150#0(0"0(0#0#77"/Users/andrew/Development/iPad/SlotMachineHopper/SlotMachineHopper_Prefix.pch4300739032#2039"    cd /Users/andrew/Development/iPad/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/Development/iPad/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/Development/iPad/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/Development/iPad/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/Development/iPad/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/Development/iPad/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/Development/iPad/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/Development/iPad/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/Development/iPad/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -c /Users/andrew/Development/iPad/SlotMachineHopper/SlotMachineHopper_Prefix.pch -o /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-djrewwpinkwbqfgepcqlxxjqkvjr/SlotMachineHopper_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch.gch SlotMachineHopper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s293307126.179708
+e293307127.576046
+r1
+xProcessPCH
+x/var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch.gch
+xSlotMachineHopper_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile SlotMachineHopper_Prefix.pch293307126#293307127#0(0"0(0#0#77"/Users/andrew/iPadSlotMachine2/SlotMachineHopper/SlotMachineHopper_Prefix.pch4300739032#2039"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-generated-files.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-own-target-headers.hmap -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-all-target-headers.hmap -iquote /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/SlotMachineHopper-project-headers.hmap -F/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/include -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources/i386 -I/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/SlotMachineHopper.build/Debug-iphonesimulator/SlotMachineHopper.build/DerivedSources -c /Users/andrew/iPadSlotMachine2/SlotMachineHopper/SlotMachineHopper_Prefix.pch -o /var/folders/bP/bPqVyC0eEaympSPNpNUC4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SlotMachineHopper_Prefix-feaisrfukyoupugedluqnuswuvku/SlotMachineHopper_Prefix.pch.gch0#
+
 CTouch /Users/andrew/Development/iPad/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app
 s293255266.172312
 e293255266.175055
@@ -726,4 +1024,12 @@ r1
 xTouch
 x/Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app
 lSLF07#2@103"Touch /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app293305564#293305564#0(0"0(0#0#0"4300739032#306"    cd /Users/andrew/iPadSlotMachine/SlotMachineHopper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/andrew/iPadSlotMachine/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app0#
+
+CTouch /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app
+s293308685.221398
+e293308685.224043
+r1
+xTouch
+x/Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app
+lSLF07#2@104"Touch /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app293308685#293308685#0(0"0(0#0#0"4300739032#308"    cd /Users/andrew/iPadSlotMachine2/SlotMachineHopper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/andrew/iPadSlotMachine2/SlotMachineHopper/build/Debug-iphonesimulator/SlotMachineHopper.app0#
 
